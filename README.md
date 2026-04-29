@@ -278,12 +278,10 @@ Contributions are welcome! Please follow these steps:
 
 ## 📬 Contact
 
-**Your Name** — [your.email@example.com](mailto:your.email@example.com)
+**Project Maintainer**: [Krishna Mohan Vadlapatla](https://github.com/krishnamohan-vadlapatla)
 
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
-**GitHub:** [github.com/your-username](https://github.com/your-username)
-
+- 💻 **GitHub Repository**: [Repository](https://github.com/krishnamohan-vadlapatla/projectroute)
+- 💼 **LinkedIn**: [Krishna Mohan Vadlapatla](https://www.linkedin.com/in/krishna-mohan-vadlapatla/)
 ---
 
 ## 📄 License
